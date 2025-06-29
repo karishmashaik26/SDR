@@ -24,7 +24,7 @@ This project focuses on the **design and simulation of a Software Defined Radar 
   - Remote sensing and environmental scanning
   - Educational radar experimentation
 
-## 🧪 Technologies Used
+## Technologies Used
 
 - MATLAB & Simulink
 - Digital Signal Processing (DSP)
